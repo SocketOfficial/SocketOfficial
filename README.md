@@ -1,16 +1,20 @@
-### Hi 👋, I'm socket
+<div align="center">
+  <h1>👋 Hi, I'm Socket!</h1>
+ <br>
+  <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/status/1072354088953593888" alt="status"></a>
+  <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/playing/1072354088953593888" alt="playing"></a>
+  <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/vscode/1072354088953593888" alt="vscode"></a>
+</br>
+</div>
+<br>
 
-<!--
-**SocketOfficial/SocketOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Linux nerd.
 
-Here are some ideas to get you started:
+I do Python shit too, but generally, I don't do much dev work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exams are going on, so can't work, but I will probably start developing on Github maybe on 13th march.
+
+You can reach me on [Discord](https://discord.com/users/1072354088953593888).
+
+[![Socket's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocketOfficial&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SocketOfficial&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
