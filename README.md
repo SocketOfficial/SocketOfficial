@@ -11,7 +11,7 @@
 
 I'm a Linux nerd.
 
-I do Python shit too, but generally, I don't do much dev work.
+I do Python shit and Nim too, but generally, I don't do much dev work.
 
 Exams are going on, so can't work, but I will probably start developing on Github maybe on 13th march.
 
