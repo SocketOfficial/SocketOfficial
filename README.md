@@ -4,7 +4,7 @@
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/status/1072354088953593888" alt="status"></a>
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/playing/1072354088953593888" alt="playing"></a>
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/vscode/1072354088953593888" alt="vscode"></a>
-  ![](https://komarev.com/ghpvc/?username=SocketOfficial)
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=SocketOfficial&color=blueviolet"></a>
 </br>
 </div>
 <br>
