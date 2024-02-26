@@ -22,4 +22,4 @@
 
 -------
 [![Socket's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocketOfficial&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ast3risk-ops&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SocketOfficial&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
