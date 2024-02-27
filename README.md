@@ -17,7 +17,7 @@
 
 - Currently a contributor at [PreBook](https://prebook.asterisk.lol).
 
-- I do Python and Java shit too, but generally, I don't do much dev work.
+- I do Python and Java work too, but generally, I don't do much dev work.
 
 
 <div align="center">
