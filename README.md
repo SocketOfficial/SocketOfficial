@@ -17,7 +17,7 @@
 
 - Currently a contributor at [PreBook](https://prebook.asterisk.lol).
 
-- I do Python and Nim work too, but generally, I don't do much dev work.
+- I do some Python work too, but generally, I don't do much dev work.
 
 
 <div align="center">
