@@ -1,6 +1,6 @@
 # Socket
 Nim developer, previously indie game developer. \
-Nothing much to see here. \
+Nothing much to see here. 
 
  <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/status/1072354088953593888" alt="status"></a>
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/playing/1072354088953593888" alt="playing"></a>
