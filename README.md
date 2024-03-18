@@ -18,7 +18,7 @@ This is never always the case, but it generally is the best way to go around doi
 Hey, I'm Socket. I am a student. I am fascinated with computers and programming. I like English too. \
 I am a freelancer and I have worked for a Discord server with 1k members as a bot developer. (Currently not for hire) \
 I currently use Python. I love Python and nowadays write most of my stuff in it. \
-I use EndeavourOS as my daily driver (NixOS previously).
+I use NixOS as my daily driver (Fedora Linux previously).
 
 # Contact Me
 Discord - s0cketinc \
