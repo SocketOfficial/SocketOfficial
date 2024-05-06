@@ -14,7 +14,7 @@ I believe all software should give users the right to modify and hack around wit
 Hey, I'm Socket. I am a student. I am fascinated with computers and programming. I like English too. \
 I have worked for a Discord server with 1k members as a bot developer. (Currently not for hire) \
 I currently use Python. I love Python and nowadays write most of my stuff in it. \
-I use NixOS as my daily driver (Fedora Linux previously).
+I use Windows 11 as my daily driver (I am thinking to dual-boot it with NixOS).
 
 # Contact Me
 Discord - s0cketinc \
