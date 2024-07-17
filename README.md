@@ -11,10 +11,9 @@ No project lol.
 I believe all software should give users the right to modify and hack around with it. Forks are really great, but certain types of forks that are parasitic should be avoided at all costs.
 
 # About Me
-Hey, I'm Socket. I am a student. I am fascinated with computers and programming. I like English too. \
-I have worked for a Discord server with 1k members as a bot developer. (Currently not for hire) \
+Hey, I'm Socket. I am a student. I am fascinated with computers and programming. I am normal-new youtuber, and I am kinda good at editing. I like English too. \
 I currently use Python. I love Python and nowadays write most of my stuff in it. \
-I use Windows 11 as my daily driver (I am thinking to dual-boot it with NixOS).
+I use Windows 10 as my daily driver (NixOS previously).
 
 # Contact Me
 Discord - s0cketinc \
