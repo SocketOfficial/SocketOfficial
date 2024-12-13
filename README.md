@@ -14,7 +14,7 @@ I use Windows 10 as my daily driver (NixOS previously).
 
 # Contact Me
 Discord - s0cketinc \
-Mastodon - @s0cket@social.linux.pizza \ (hardly use it)
+Mastodon - @s0cket@social.linux.pizza \ 
 E-Mail - s0cketinc@proton.me
 
 Have a great day ahead!
