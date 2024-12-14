@@ -8,8 +8,8 @@ Nothing much to see here.
 No project lol.
 
 # About Me
-Hey, I'm Socket. I am a student. I am fascinated with computers and programming. I am kinda good at editing. I like English too. \
-I currently use Python. I love Python and nowadays write most of my stuff in it. \
+Hi, I'm Socket. I am a school student. I am in love with computers and programming. I am kinda good at editing. I like English too. \
+I currently use Python. I love Python and nowadays write most of my stuff in it, I also use HTML and CSS, very rarely. \
 I use Windows 10 as my daily driver (NixOS previously).
 
 # Contact Me
