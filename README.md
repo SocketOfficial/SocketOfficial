@@ -13,7 +13,7 @@ I currently use Python. I love Python and nowadays write most of my stuff in it,
 I use Debian as my daily driver (NixOS previously).
 
 # Contact Me
-Discord - s0cketinc \
+Discord - socketyt \
 Mastodon - @s0cket@social.linux.pizza \
 E-Mail - s0cketinc@proton.me
 
