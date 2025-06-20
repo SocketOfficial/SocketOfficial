@@ -1,5 +1,5 @@
 # Socket
-C developer, previous indie game developer.
+C developer, still learning.
 Nothing much to see here. 
 
 [![Socket's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocketOfficial&show_icons=true&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
