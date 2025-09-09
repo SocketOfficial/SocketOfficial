@@ -1,5 +1,6 @@
 # Socket
 Heya! I'm a 13 year old programmer with interest in computer hardware, compilers, and POSIX. I mostly write my code in C, C++ and Javascript. Still learning these languages.
+
 [![Socket's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocketOfficial&show_icons=true&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
 
 # Current Projects
