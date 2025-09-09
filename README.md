@@ -1,20 +1,10 @@
 # Socket
-C developer, still learning.
-Nothing much to see here. 
-
+Heya! I'm a 13 year old programmer with interest in computer hardware, compilers, and POSIX. I mostly write my code in C, C++ and Javascript. Still learning these languages.
 [![Socket's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocketOfficial&show_icons=true&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
 
 # Current Projects
 No project lol.
 
-# About Me
-Hi, I'm Raghav. I am a school student. I am in love with computers and programming. I like English too. \
-I currently use C. I love C and nowadays write most of my stuff in it, I also use HTML and CSS, very rarely. \
-I use Linux Mint as my daily driver (NixOS previously).
-
 # Contact Me
-Discord - socketyt \
-Mastodon - @s0cket@social.linux.pizza \
-E-Mail - s0cketinc@proton.me
-
-Have a great day ahead!
+You, well, can contact me on discord (`socketyt`). 
+You can use my emails as well (`s0cketinc@proton.me`) but the truth is, I rarely open it.
