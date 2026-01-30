@@ -8,4 +8,4 @@ No project lol.
 
 # Contact Me
 You, well, can contact me on discord (`socketyt`). 
-You can use my emails as well (`s0cketinc@proton.me`) but the truth is, I rarely open it.
+You can use my emails as well (`socketofficial@proton.me`) but the truth is, I rarely open it.
